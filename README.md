@@ -24,3 +24,6 @@ Run python val.py --labels <COCO_HOME>/annotations/person_keypoints_val2017.json
 python demo.py --checkpoint-path <path_to>/checkpoint_iter_370000.pth --video 0
 or
 python demo.py --checkpoint-path <path_to>/checkpoint_iter_370000.pth --images <path of image>
+   
+# Sample Output
+![alt text](data/demo.jpg)
